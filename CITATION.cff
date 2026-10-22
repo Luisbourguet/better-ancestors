@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the archived version by its DOI."
+type: article
+title: "Better Ancestors: What Constitutions Owe the Unborn"
+authors:
+  - family-names: "Bourguet"
+    given-names: "Luis"
+    orcid: "https://orcid.org/0000-0002-4673-4486"
+    affiliation: "LabOnt – Center for Ontology, Università degli Studi di Torino; Complex Systems Science Laboratory, Hiroshima University"
+date-released: 2026-10-22
+version: "1.0"
+license: CC-BY-4.0
+keywords:
+  - emergence
+  - transgenerationality
+  - documentality
+  - constitutional endurance
+  - Better Ancestors Principle
+abstract: "Constitutions bind persons who took no part in making them. This article argues that the bond is an emergent fact: a constitution is an institutional fact constituted by linguistic acts and kept in force by their inscription, whose characteristic emergent property is transgenerationality. On that basis it gives formal definitions of the Better Ancestors Principle and of the Good Ancestors Ranking, computable from a text and a few facts about who staffs its bodies."

@@ -1,0 +1,41 @@
+{
+  "title": "Better Ancestors: What Constitutions Owe the Unborn",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-10-22",
+  "version": "1.0",
+  "language": "eng",
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Bourguet, Luis",
+      "affiliation": "LabOnt – Center for Ontology, Università degli Studi di Torino; Complex Systems Science Laboratory, Hiroshima University",
+      "orcid": "0000-0002-4673-4486"
+    }
+  ],
+  "keywords": [
+    "emergence",
+    "transgenerationality",
+    "documentality",
+    "constitutional endurance",
+    "Better Ancestors Principle",
+    "Good Ancestors Ranking",
+    "social ontology",
+    "inscription"
+  ],
+  "description": "<p>Constitutions bind persons who took no part in making them. Jefferson held this to be a matter of force, Madison a debt that benefits justify; neither said what kind of fact it is. This article argues that it is an emergent one. A constitution is an institutional fact constituted by linguistic acts and kept in force by their inscription; once inscribed, the order acquires a property none of its components has: it binds those who took no part in its inscription. Following Andina, we call this property transgenerationality and type it as diachronic, ontological and weak emergence. Rereading the design covariates of constitutional endurance as properties of the inscription regime (who can re-inscribe a norm, by amendment or by authoritative interpretation), we then give the image of the good ancestor a precise content. The Better Ancestors Principle holds of an order if and only if every norm that binds a generation by default can be re-inscribed through a procedure that generation controls, and no body beyond its reach can re-inscribe it more cheaply. The Good Ancestors Ranking orders constitutional orders by the share of their binding norms that violate either condition. A worked example shows that the ranking can be computed from a text and a few facts about who staffs its bodies and that an eternity clause forecloses only where its reading lies beyond the generation it binds. Endurance and good ancestry come apart: an order may last precisely because its descendants cannot reach it.</p><p>Preprint, version 1. Under double-anonymous peer review at a journal (venue withheld until decision); not yet peer reviewed.</p>",
+  "notes": "Version 1 corresponds to the manuscript submitted for double-anonymous peer review on 22 October 2026 (venue withheld until decision). code/gar_omega_check.py recomputes the worked example from the definitions.",
+  "communities": [
+    {
+      "identifier": "computational-ontology"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Social ontology",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85124061",
+      "scheme": "url"
+    }
+  ]
+}
