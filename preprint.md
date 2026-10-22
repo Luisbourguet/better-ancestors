@@ -10,7 +10,7 @@ abstract: |
 ::: {.status}
 **Luis Bourguet** — LabOnt – Center for Ontology, Università degli Studi di Torino; Complex Systems Science Laboratory, Hiroshima University. ORCID [0000-0002-4673-4486](https://orcid.org/0000-0002-4673-4486).
 
-**Status.** Preprint, version 1 (22 October 2026). Under double-anonymous peer review at a journal (venue withheld until decision); not yet peer reviewed. The text is the one submitted for review. Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Archived version and DOI: see the Zenodo record linked from the repository `Luisbourguet/better-ancestors`.
+**Status.** Preprint, version 1 (22 October 2026). Under double-anonymous peer review at a journal (venue withheld until decision); not yet peer reviewed. The text is the one submitted for review. Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Archived at Zenodo: [doi:10.5281/zenodo.23562193](https://doi.org/10.5281/zenodo.23562193) (all versions); source and code in the repository `Luisbourguet/better-ancestors`.
 
 **Keywords:** emergence; transgenerationality; documentality; constitutional endurance; Better Ancestors Principle
 :::
